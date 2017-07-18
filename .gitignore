@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/dotnet-mvc/v15
+/bin/Debug/netcoreapp2.0
+/bin/Debug/netcoreapp2.0
+/bin/Debug/netcoreapp2.0/linux-x64
+/bin/Debug/netcoreapp2.0/linux-arm
+/bin/Debug/netcoreapp2.0/linux-arm
+/obj/Debug/netcoreapp2.0
+/obj/netcoreapp2.0
+/obj/Debug/netcoreapp2.0
+/obj/netcoreapp2.0
+/dotnet-mvc.csproj.user
+/obj
